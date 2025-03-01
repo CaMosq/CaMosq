@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I’m a passionate software developer with a Bachelor of Science in Computer Science, specializing in Software Engineering. Over the past few years, I’ve honed my skills in building efficient, scalable, and user-friendly applications.
 
-### 🛠️ Skills & Technologies
+###  Skills & Technologies
 	
 - **Languages**: Java, Python, C++, JavaScript, TypeScript
 - **Web Development**: Angular, Spring Boot, Flask, Node.js
